@@ -6,5 +6,10 @@ address:
 update_frequency: 3h
 sponsor: 01Link Network Services Limited
 sponsor_url: https://www.01link.net
+geolocation:
+  continent: Asia
+  country: HK
+  state_province: New Territories
+  city: Tsuen Wan
 email: support@01link.net
 ...
