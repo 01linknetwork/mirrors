@@ -7,4 +7,8 @@ update_frequency: 3h
 sponsor: 01Link Network Services Limited
 sponsor_url: https://www.01link.net
 email: support@01link.net
+geolocation:
+  country: HK
+  state_province: NT
+  city: TW
 ...
